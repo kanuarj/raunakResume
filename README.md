@@ -63,13 +63,13 @@
 
 ## Certifications
 
-- Introduction to Corporate Finance, Wharton Online _(Apr’22)_
+- [Introduction to Corporate Finance](https://www.coursera.org/account/accomplishments/certificate/MVP58F7Z5UVC), Wharton Online _(Apr’22)_
 - arXiv, cs.LG _(Feb’22)_
-- Fundamentals of Finance, Wharton Online _(Oct’21)_
-- AWS Fundamentals Specialization, Amazon Web Services (AWS) _(May’20)_
-- Business Statistics and Analysis Specialization, Rice Business - Jones Graduate School of Business _(May’20)_
-- Deep Learning Specialization, deeplearning.ai _(May’20)_
-- Machine Learning, Stanford University _(Oct’19)_
+- [Fundamentals of Finance](https://www.coursera.org/account/accomplishments/certificate/SJBPQNCMZTQQ), Wharton Online _(Oct’21)_
+- [AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/A4HZY89LBPGY), Amazon Web Services (AWS) _(May’20)_
+- [Business Statistics and Analysis Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2U5WXPEVUASV), Rice Business - Jones Graduate School of Business _(May’20)_
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EE8H2YUJU7Y9), deeplearning.ai _(May’20)_
+- [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/5MUESEXXMRW7), Stanford University _(Oct’19)_
 - Digital Image Processing using Wavelets and Machine Learning, Terna Engineering College _(Jul’19)_
 
 ## Technical Skills
@@ -88,32 +88,13 @@
 - Technical Trainer for Machine Learning at Vidyalankar Institute of Technology, Mumbai _(Sep’18)_
 
 ## Awards
-Trophy and Letter of Appreciation for Outstanding Teaching Performance _(Jun’19)_
-- Issued by K. J. Somaiya Institute of Engineering and Information Technology
-
-Techathon 2019 - 24 hrs National Level Hackathon - Certificate of Participation _(Apr’19)_
-- Issued by Ramrao Adik Institute of Technology
-
-UCoE - 5th National Level Project Exhibition - Certificate of Participation _(Mar’19)_
-- Issued by Universal College of Engineering is association with I.E.T.E. - I.S.F & I.S.A.
-
-Err_404 2.0 Hackathon - Certificate of Participation _(Mar’19)_
-- Issued by M.H. Saboo Siddik College of Engineering
-
-Hack-Stomp Hackathon 2019 - Certificate of Participation _(Feb’19)_
-- Issued by Universal College of Engineering
-
-TSEC Hacks Hackathon 2019 - Certificate of Participation _(Feb’19)_
-- Issued by Thadomal Shahani Engineering College
-
-VCET Hackathon 2018 - Certificate of Excellence and Certificate of Participation _(Oct’18)_
-- Issued by Vidyavardhini’s College of Engineering and Technology, Vasai
-
-Smart India Hackathon 2018 - Participation Certificate _(Apr’18)_
-- Issued by Ministry of Tribal Affairs
-
-NSE Future Tech 2018 Machine Learning Hackathon Participation Certificate _(Mar’18)_
-- Issued by NSE FutureTech Hackathon
-
-VCET Hackathon Participation Certificate _(Oct’17)_
-- Issued by Vidyavardhini College of Engineering and Technology, Vasai
+- Trophy and Letter of Appreciation for Outstanding Teaching Performance Issued by K. J. Somaiya Institute of Engineering and Information Technology _(Jun’19)_
+- Techathon 2019 - 24 hrs National Level Hackathon - Certificate of Participation Issued by Ramrao Adik Institute of Technology _(Apr’19)_
+- UCoE - 5th National Level Project Exhibition - Certificate of Participation Issued by Universal College of Engineering is association with I.E.T.E. - I.S.F & I.S.A. _(Mar’19)_
+- Err_404 2.0 Hackathon - Certificate of Participation Issued by M.H. Saboo Siddik College of Engineering _(Mar’19)_
+- Hack-Stomp Hackathon 2019 - Certificate of Participation Issued by Universal College of Engineering _(Feb’19)_
+- TSEC Hacks Hackathon 2019 - Certificate of Participation Issued by Thadomal Shahani Engineering College _(Feb’19)_
+- VCET Hackathon 2018 - Certificate of Excellence and Certificate of Participation Issued by Vidyavardhini’s College of Engineering and Technology, Vasai _(Oct’18)_
+- Smart India Hackathon 2018 - Participation Certificate Issued by Ministry of Tribal Affairs _(Apr’18)_
+- NSE Future Tech 2018 Machine Learning Hackathon Participation Certificate Issued by NSE FutureTech Hackathon _(Mar’18)_
+- VCET Hackathon Participation Certificate Issued by Vidyavardhini College of Engineering and Technology, Vasai _(Oct’17)_
