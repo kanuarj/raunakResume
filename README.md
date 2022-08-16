@@ -1,6 +1,4 @@
-# Raunak Joshi
-
-Independent Researcher
+## Contact Information
 
 [Email](raunakjoshi.m@gmail.com) / [LinkedIn](https://www.linkedin.com/in/raunak-joshi-274a75133) / [GitHub](https://github.com/kanuarj/) / [Google Scholar](https://scholar.google.com/citations?user=myq2CuAAAAAJ&hl=en) / [Research Gate](https://www.researchgate.net/profile/Raunak-Joshi-2)
 
