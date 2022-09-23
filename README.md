@@ -19,47 +19,24 @@
 
 ## Publications
 
-[Residual-Concatenate Neural Network with Deep Regularization Layers for Binary Classification](https://doi.org/10.1109/ICICCS53718.2022.9788437) _(May’22)_
-- 6th International Conference on Intelligent Computing and Control Systems (ICICCS 2022)
-
-[Optimization Effects for Word Representations with L2-Regularized Non-Parametric Model for Contrasting Epochs](https://doi.org/10.1109/INCET54531.2022.9824562) _(May'22)_
-- 3rd International Conference of Emerging Technologies 2022
-
-[Metric Effects based on Fluctuations in values of k in Nearest Neighbor Regressor]() _(Apr’22)_
-- 3rd International Conference on Data Intelligence and Cognitive Informatics ICDICI 2022
- 
-[Prediction of Maneuvering Status for Aerial Vehicles using Supervised Learning Methods](https://arxiv.org/abs/2206.10303) _(Mar’22)_
-- 2nd International Conference on Machine Learning and Big Data Analytics (ICMLBDA) 2022
-
-[Combining Varied Learners for Binary Classification using Stacked Generalization](https://arxiv.org/abs/2202.08910) _(Feb’22)_
-- Intelligent Computing and Networking Proceedings of IC-ICN 2022
-
-[Binary Classification for High Dimensional Data using Supervised Non-Parametric Ensemble Method](https://arxiv.org/abs/2202.07779) _(Feb’22)_
-- Intelligent Computing and Networking Proceedings of IC-ICN 2022
-
-[Refactoring Faces under Bounding Box using Instance Segmentation Algorithms in Deep Learning for replacement of Editing Tools](https://doi.org/10.1007/978-981-16-4863-2_20) _(Feb’22)_
-- Intelligent Computing and Networking Proceedings of IC-ICN 2021
-
-[Succinct Differentiation of Disparate Boosting Ensemble Learning Methods for Prognostication of Polycystic Ovary Syndrome Diagnosis](https://doi.org/10.1109/ICAC353642.2021.9697163) _(Dec’21)_
-- IEEE 2021 International Conference on Advances in Computing, Communication and Control (ICAC3’21)
-
-[Compendious Comparison of Capsule Network and Convolutional Neural Network through end-to-end Digit Classification Application](https://www.ijiccn.com/images/files/vol-2-issue2/paper2button.pdf) _(July’21)_
-- International Journal of Intelligent Communication, Computing, and Networks
-
-[Approach to Avoid Resource Exhaustion Caused by Editing Tools for Automating Effects Using Noise Inducing Procedures in Deep Learning](https://www.ijiccn.com/approach-to-avoid-resource-exhaustion-caused-by-editing-tools-for-automating-effects-using-noise-inducing-procedures-in-deep-learning) _(May’21)_
-- International Journal of Intelligent Communication, Computing, and Networks
+- [Residual-Concatenate Neural Network with Deep Regularization Layers for Binary Classification](https://doi.org/10.1109/ICICCS53718.2022.9788437) _(May’22)_
+- [Optimization Effects for Word Representations with L2-Regularized Non-Parametric Model for Contrasting Epochs](https://doi.org/10.1109/INCET54531.2022.9824562) _(May'22)_
+- [Metric Effects based on Fluctuations in values of k in Nearest Neighbor Regressor]() _(Apr’22)_
+- [Prediction of Maneuvering Status for Aerial Vehicles using Supervised Learning Methods](https://arxiv.org/abs/2206.10303) _(Mar’22)_
+- [Combining Varied Learners for Binary Classification using Stacked Generalization](https://arxiv.org/abs/2202.08910) _(Feb’22)_
+- [Binary Classification for High Dimensional Data using Supervised Non-Parametric Ensemble Method](https://arxiv.org/abs/2202.07779) _(Feb’22)_
+- [Refactoring Faces under Bounding Box using Instance Segmentation Algorithms in Deep Learning for replacement of Editing Tools](https://doi.org/10.1007/978-981-16-4863-2_20) _(Feb’22)_
+- [Succinct Differentiation of Disparate Boosting Ensemble Learning Methods for Prognostication of Polycystic Ovary Syndrome Diagnosis](https://doi.org/10.1109/ICAC353642.2021.9697163) _(Dec’21)_
+- [Compendious Comparison of Capsule Network and Convolutional Neural Network through end-to-end Digit Classification Application](https://www.ijiccn.com/images/files/vol-2-issue2/paper2button.pdf) _(July’21)_
+- [Approach to Avoid Resource Exhaustion Caused by Editing Tools for Automating Effects Using Noise Inducing Procedures in Deep Learning](https://www.ijiccn.com/approach-to-avoid-resource-exhaustion-caused-by-editing-tools-for-automating-effects-using-noise-inducing-procedures-in-deep-learning) _(May’21)_
 <br><br>
 
 ## Preprints
-[Performance Comparison of Simple Transformer and Res-CNN-BiLSTM for Cyberbullying Classification](https://arxiv.org/abs/2206.02206) _(Jun’22)_
-
-[Res-CNN-BiLSTM Network for overcoming Mental Health Disturbances caused due to Cyberbullying through Social Media](https://arxiv.org/abs/2204.09738) _(Apr’22)_
-
-[Detection of Tool based Edited Images from Error Level Analysis and Convolutional Neural Network](https://arxiv.org/abs/2204.09075) _(Apr’22)_
-
-[Effects of Parametric and Non-Parametric Methods on High Dimensional Sparse Matrix Representations](https://arxiv.org/abs/2202.02894) _(Feb’22)_
-
-[Discriminant Analysis in Contrasting Dimensions for Polycystic Ovary Syndrome Prognostication](https://arxiv.org/abs/2201.03029) _(Jan’22)_
+- [Performance Comparison of Simple Transformer and Res-CNN-BiLSTM for Cyberbullying Classification](https://arxiv.org/abs/2206.02206) _(Jun’22)_
+- [Res-CNN-BiLSTM Network for overcoming Mental Health Disturbances caused due to Cyberbullying through Social Media](https://arxiv.org/abs/2204.09738) _(Apr’22)_
+- [Detection of Tool based Edited Images from Error Level Analysis and Convolutional Neural Network](https://arxiv.org/abs/2204.09075) _(Apr’22)_
+- [Effects of Parametric and Non-Parametric Methods on High Dimensional Sparse Matrix Representations](https://arxiv.org/abs/2202.02894) _(Feb’22)_
+- [Discriminant Analysis in Contrasting Dimensions for Polycystic Ovary Syndrome Prognostication](https://arxiv.org/abs/2201.03029) _(Jan’22)_
 
 ## Certifications
 
