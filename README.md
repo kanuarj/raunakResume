@@ -1,11 +1,11 @@
 ## Contact Information
 
-[Email](raunakjoshi.m@gmail.com) / [LinkedIn](https://www.linkedin.com/in/raunak-joshi-274a75133) / [GitHub](https://github.com/kanuarj/) / [Google Scholar](https://scholar.google.com/citations?user=myq2CuAAAAAJ&hl=en) / [Research Gate](https://www.researchgate.net/profile/Raunak-Joshi-2)
+[Email](mailto:raunakjoshi.m@gmail.com) / [LinkedIn](https://www.linkedin.com/in/raunak-joshi-274a75133) / [GitHub](https://github.com/kanuarj/) / [Google Scholar](https://scholar.google.com/citations?user=myq2CuAAAAAJ&hl=en) / [Research Gate](https://www.researchgate.net/profile/Raunak-Joshi-2) / [Semantic Scholar](https://www.semanticscholar.org/author/Raunak-Joshi/97771467)
 
-## Work Experience and Internships
+## Freelancing and Internships
 
 **Collaborative Researcher** _(May’21-Present)_ <br>
-- Working with different engineering college students, mentoring them with their projects and writing research papers in Springer, IEEE and ACM. Published over 12 papers in 3 months.
+- Working with different engineering college students, mentoring them with their projects and publishing research papers in Springer, IEEE and ACM. Published over 12 papers in 3 months.
 
 **Head Mentor of Technical and Strategy** @ [Last Moment Tuitions](https://lastmomenttuitions.com/) _(Nov’20-Apr’21)_ <br>
 -  Responsible for content creation of 2 courses over 30 hours each. Orchestrated portal development strategies and course marketing.
