@@ -14,8 +14,8 @@
     
 ## Education
 
-**Master of Engineering** in Information Technology<br>
-[University of Mumbai](https://mu.ac.in/) - CGPA - 9.49/10.00 - _(2019 - 2021)_
+**Master of Technology** in Computer Engineering<br>
+[Veermata Jijabai Technological Institute](https://vjti.ac.in/) - CPI - --/--/10.00 - _(2022 - 2024)_
 
 ## Publications
 
