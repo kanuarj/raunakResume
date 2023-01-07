@@ -2,7 +2,7 @@
 
 [Email](mailto:raunakjoshi.m@gmail.com) / [LinkedIn](https://www.linkedin.com/in/raunak-joshi-274a75133) / [GitHub](https://github.com/kanuarj/) / [Google Scholar](https://scholar.google.com/citations?user=myq2CuAAAAAJ&hl=en) / [Research Gate](https://www.researchgate.net/profile/Raunak-Joshi-2) / [Semantic Scholar](https://www.semanticscholar.org/author/Raunak-Joshi/97771467)
 
-## Freelancing and Internships
+## Freelancing
 
 **Collaborative Researcher** _(May’21-Present)_ <br>
 - Working with different engineering college students, mentoring them with their projects and publishing research papers in Springer, IEEE and ACM. Published over 12 papers in 3 months.
