@@ -15,7 +15,7 @@
 ## Education
 
 **Master of Technology** in Computer Engineering<br>
-[Veermata Jijabai Technological Institute](https://vjti.ac.in/) - CPI - --.--/10.00 - _(2022 - 2024)_
+[Veermata Jijabai Technological Institute](https://vjti.ac.in/) - CPI -> --.--/10.00 - _(2022 - 2024)_
 
 ## Publications
 
