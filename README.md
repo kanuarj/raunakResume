@@ -19,6 +19,7 @@
 
 ## Publications
 
+- [Forged Image Detection using SOTA Image Classification Deep Learning Methods for Image Forensics with Error Level Analysis](https://doi.org/10.1109/ICCCNT54827.2022.9984489) _(Oct'22)_
 - [Residual-Concatenate Neural Network with Deep Regularization Layers for Binary Classification](https://doi.org/10.1109/ICICCS53718.2022.9788437) _(May’22)_
 - [Optimization Effects for Word Representations with L2-Regularized Non-Parametric Model for Contrasting Epochs](https://doi.org/10.1109/INCET54531.2022.9824562) _(May'22)_
 - [Metric Effects based on Fluctuations in values of k in Nearest Neighbor Regressor]() _(Apr’22)_
