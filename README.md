@@ -57,6 +57,7 @@
 - Tools & Libraries: Pandas, Scikit-Learn, LaTeX
 
 ## Volunteering
+- Training and Placement Co-ordinator at Veermata Jijabai Technological Institute _(Nov'22-Present)_
 - Research Mentor for 5 Masters’ students from different Engineering Colleges _(Jan’22)_
 - Technical Trainer for Machine Learning at RMD Sinhgad School of Engineering, Warje, Pune _(Feb’20)_
 - Technical Trainer for Machine Learning at ANVIRA EDUSTATION, Mumbai _(Dec’19)_
