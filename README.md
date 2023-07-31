@@ -2,9 +2,19 @@
 
 [Email](mailto:raunakjoshi.m@gmail.com) / [LinkedIn](https://www.linkedin.com/in/raunak-joshi-274a75133) / [GitHub](https://github.com/kanuarj/) / [Google Scholar](https://scholar.google.com/citations?user=myq2CuAAAAAJ&hl=en) / [Research Gate](https://www.researchgate.net/profile/Raunak-Joshi-2) / [Semantic Scholar](https://www.semanticscholar.org/author/Raunak-Joshi/97771467)
 
+## Work Experience
+
+**Assistant Professor** ~ Department of Artificial Intelligence and Data Science @ [Vidyavardhini's College of Engineering and Technology](https://vcet.edu.in/) _(July’23-Present)_ <br>
+- Courses Covered : Statistics, Management Information System
+- Practicals Covered : Natural Language Processing, Data Structures, Digital Logic and Computer Architecture
+- Department Committee : Placement and Training, Student Council, Technical Magazine, Social Media, Laboratory Head, National and International Level Competitions for Students and Faculty
+- Responsibilities : Research and Development University level proposals, Infrastruture Utilization and Maintenance, VCET Techzette Management Head
+- Portfolio : NAAC Criteria 4, NBA Criteria 6
+<br><br>
+
 ## Freelancing
 
-**Collaborative Researcher** _(May’21-Present)_ <br>
+**Collaborative Researcher** _(May’21-June'23)_ <br>
 - Working with different engineering college students, mentoring them with their projects and publishing research papers in Springer, IEEE and ACM. Published over 12 papers in 3 months.
 
 **Head Mentor of Technical and Strategy** @ [Last Moment Tuitions](https://lastmomenttuitions.com/) _(Nov’20-Apr’21)_ <br>
@@ -14,8 +24,8 @@
     
 ## Education
 
-**Master of Technology** in Computer Engineering<br>
-[Veermata Jijabai Technological Institute](https://vjti.ac.in/) - CPI = --.--/10.00 - _(2022 - 2024)_
+**Master of Engineering** in Information Technology<br>
+[Thakur College of Engineering and Technology](https://www.tcetmumbai.in/) - CGPA = 9.49/10.00 - _(2019 - 2021)_
 
 ## Publications
 
@@ -57,7 +67,7 @@
 - Tools & Libraries: Pandas, Scikit-Learn, LaTeX
 
 ## Volunteering
-- Training and Placement Co-ordinator at Veermata Jijabai Technological Institute _(Nov'22-Present)_
+- Training and Placement Co-ordinator at Veermata Jijabai Technological Institute _(Nov'22-Jan'23)_
 - Research Mentor for 5 Masters’ students from different Engineering Colleges _(Jan’22)_
 - Technical Trainer for Machine Learning at RMD Sinhgad School of Engineering, Warje, Pune _(Feb’20)_
 - Technical Trainer for Machine Learning at ANVIRA EDUSTATION, Mumbai _(Dec’19)_
