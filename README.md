@@ -1,15 +1,19 @@
 ## Contact Information
 
-[Email](mailto:raunakjoshi.m@gmail.com) / [LinkedIn](https://www.linkedin.com/in/raunak-joshi-274a75133) / [GitHub](https://github.com/kanuarj/) / [Google Scholar](https://scholar.google.com/citations?user=myq2CuAAAAAJ&hl=en) / [Research Gate](https://www.researchgate.net/profile/Raunak-Joshi-2) / [Semantic Scholar](https://www.semanticscholar.org/author/Raunak-Joshi/97771467)
+[Email](mailto:raunakjoshi.m@gmail.com) / [LinkedIn](https://www.linkedin.com/in/raunak-joshi-274a75133) / [GitHub](https://github.com/kanuarj/) / [Google Scholar](https://scholar.google.com/citations?user=myq2CuAAAAAJ&hl=en) / [Research Gate](https://www.researchgate.net/profile/Raunak-Joshi-2) / [Semantic Scholar](https://www.semanticscholar.org/author/Raunak-Joshi/97771467) / [ORCiD](https://orcid.org/0009-0009-1796-4213)
 
 ## Work Experience
 
 **Assistant Professor** ~ Department of Artificial Intelligence and Data Science @ [Vidyavardhini's College of Engineering and Technology](https://vcet.edu.in/) _(July’23-Present)_ <br>
-- Courses Covered : Statistics, Management Information System
-- Practicals Covered : Natural Language Processing, Data Structures, Digital Logic and Computer Architecture
+- Courses Covered : 
+    - Odd Semester : Statistics, Management Information System, Discrete Structures and Graph Therory
+    - Even Semester : Recommendation Systems, Cryptography and System Security 
+- Practicals Covered :
+    - Odd Semester : Natural Language Processing, Data Structures
+    - Even Semester : Recommendation Systems, Machine Learning
 - Department Committee : Placement and Training, Student Council, Technical Magazine, Social Media, Laboratory Head, National and International Level Competitions for Students and Faculty
 - Responsibilities : Research and Development University level proposals, Infrastruture Utilization and Maintenance, VCET Techzette Management Head
-- Portfolio : NAAC Criteria 4, NBA Criteria 6
+- Portfolio : NAAC Criteria 4, NBA Criteria 6, IQAC Core Compilation
 <br><br>
 
 ## Freelancing
